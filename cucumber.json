@@ -1,0 +1,6 @@
+{
+  "default": {
+    "format": ["html:cucumber-report.html"],
+    "formatOptions": { "colorsEnabled": true }
+  }
+}
